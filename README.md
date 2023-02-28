@@ -10,5 +10,9 @@ then Select react -> javascript
 now run:
 `npm install`
 
+to start project run:
+
+`npm run dev`
 
 
+##AI model is not included
