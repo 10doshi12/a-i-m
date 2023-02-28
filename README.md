@@ -8,6 +8,7 @@ first initilise with command :
 then Select react -> javascript
 
 now run:
+
 `npm install`
 
 to start project run:
