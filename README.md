@@ -15,4 +15,4 @@ to start project run:
 `npm run dev`
 
 
-##AI model is not included
+**AI model is not included**
